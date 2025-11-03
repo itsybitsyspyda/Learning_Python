@@ -1,6 +1,6 @@
 #Making The Program Interactive
 
-#Get user input
+#Get user input or Information
 
 name = input("What is your name?")
 age = int(input("How old are you?"))
